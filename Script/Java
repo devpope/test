@@ -1,0 +1,5 @@
+<script type="text/javascript">
+setTimeout(function(){
+    document.getElementById('image2').style.display = 'block';
+},600000);
+</script>
